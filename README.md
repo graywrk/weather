@@ -7,3 +7,5 @@ export OWM_API_KEY="<key>"
 ```
 
 Местоположение для прогноза определяется по IP с помощью сервиса http://ip-api.com
+
+![alt text](image.png)
